@@ -4,7 +4,7 @@ Repositório criado para a entrega da monografia do curso de BI_Master da PUC-Ri
 
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Previsão de necessidade de revisão em pedidos de compras de bens
+# Previsão da necessidade de revisão em pedidos de compras de bens
 
 #### Aluno: [Rodolfo de Oliveira](https://github.com/Rodolfo-de-Oliveira/PoC-BI_Master)
 #### Aluno: [Juan Lourenço](https://github.com/ xpto) ==> Ajustar o link para o github do Juan
