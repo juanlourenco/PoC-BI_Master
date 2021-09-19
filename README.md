@@ -6,9 +6,9 @@ Repositório criado para a entrega da monografia do curso de BI_Master da PUC-Ri
 
 # Título do Trabalho
 
-#### Aluno: [Rodolfo de Oliveira](https://github.com/Rodolfo-de-Oliveira/PoC-BI_Master).
-#### Aluno: [Juan Lourenço](https://github.com/ xpto). ==> Ajustar o link para o github do Juan
-#### Orientadora: [Manoela Kohler](https://github.com/link_do_github).
+#### Aluno: [Rodolfo de Oliveira](https://github.com/Rodolfo-de-Oliveira/PoC-BI_Master)
+#### Aluno: [Juan Lourenço](https://github.com/ xpto) ==> Ajustar o link para o github do Juan
+#### Orientadora: [Manoela Kohler](https://github.com/link_do_github)
 
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
