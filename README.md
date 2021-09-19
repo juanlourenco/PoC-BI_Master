@@ -19,7 +19,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-Este trabalho visa fazer uma análise preditiva da necessidade de se fazer correções em pedidos de aquisições de bens com base nas informações que constem no formulário do pedido.
+Este trabalho visa encontrar uma análise preditiva da necessidade de se fazer correções em pedidos de aquisições de bens com base nas informações que constem no formulário do pedido.
 
 Uma empresa (nome da empresa omitido) emite, diligencia e recebe dezenas de milhares de pedidos de compras de bens mensalmente. Parte desses pedidos, atualmente cerca de 50%,  passa por algum tipo de revisão entre o momento de sua criação e a efetiva chegada no armazém, porém essa revisão não é desejada, geralmente se trata de uma correção e significa atraso na entrega. 
 
